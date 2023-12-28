@@ -1,0 +1,8 @@
+{
+    "country":"India",
+    "state":"Maharashtra",
+    "city":"Pune",
+    "lat":18.5204,
+    "long":73.8567,
+    "url":"http://api.openweathermap.org/data/2.5/weather?id=126"
+}
